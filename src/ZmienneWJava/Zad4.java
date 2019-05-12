@@ -1,3 +1,5 @@
+package ZmienneWJava;
+
 import java.util.Scanner;
 
 public class Zad4 {

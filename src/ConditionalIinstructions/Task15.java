@@ -11,4 +11,5 @@ public class Task15 {
             System.out.println("obie osoby to nastolatki");
         else System.out.println("nie");
     }
+
 }

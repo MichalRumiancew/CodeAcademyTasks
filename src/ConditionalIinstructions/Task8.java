@@ -14,4 +14,6 @@ public class Task8 {
         else
             System.out.println(" pierwsza i ostatnia litera nie sa takie sme");
     }
+
+
 }

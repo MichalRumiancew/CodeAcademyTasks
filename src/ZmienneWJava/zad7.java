@@ -1,4 +1,4 @@
-package ZmienneWJava;
+package zmienneWJava;
 
 import java.util.Scanner;
 

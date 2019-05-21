@@ -3,7 +3,7 @@ package While;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Task6 {
+public class Task6Gra {
     public static void main(String[] args) {
         Random random = new Random();
         int magicNumber = random.nextInt(600);

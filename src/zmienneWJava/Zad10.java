@@ -1,4 +1,4 @@
-package While.ZmienneWJava;
+package zmienneWJava;
 
 public class Zad10 {
 

@@ -1,4 +1,4 @@
-package While.ZmienneWJava;
+package ZmienneWJava;
 
 import java.util.Scanner;
 

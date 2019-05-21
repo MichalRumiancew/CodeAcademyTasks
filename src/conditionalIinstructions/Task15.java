@@ -1,4 +1,4 @@
-package conditionalIinstructions;
+package ConditionalIinstructions;
 
 import java.util.Scanner;
 

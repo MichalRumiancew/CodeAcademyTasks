@@ -1,4 +1,4 @@
-package ZmienneWJava;
+package zmienneWJava;
 
 public class Zad3 {
 

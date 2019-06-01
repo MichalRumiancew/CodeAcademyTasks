@@ -1,4 +1,4 @@
-package StringOperationes;
+package stringOperationes;
 
 import java.util.Scanner;
 

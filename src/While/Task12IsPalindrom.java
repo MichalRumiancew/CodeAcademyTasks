@@ -2,7 +2,7 @@ package While;
 
 import java.util.Scanner;
 
-public class Task12 {
+public class Task12IsPalindrom {
     public static void main(String[] args) {
         System.out.println("podaj słowo do sprawdzenie czy to palindrom: ");
         Scanner scanner = new Scanner(System.in);

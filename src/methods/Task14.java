@@ -12,6 +12,7 @@ public class Task14 {
                 max = i;
 
 
+
         }
         System.out.println("Liczba, która ma największą liczbę dzielników to  " + max + " liczba jej dzielników to: "
                 + Task11.calculateNumberOfDividers(max));

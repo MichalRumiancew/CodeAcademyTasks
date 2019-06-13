@@ -1,4 +1,4 @@
-package a;
+package arrays;
 
 public class Task4 {
     static int sum (int[]array){

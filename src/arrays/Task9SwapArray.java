@@ -2,7 +2,7 @@ package arrays;
 
 import java.util.Scanner;
 
-public class Task9 {
+public class Task9SwapArray {
 
     static int[] swap(int[] array) {
         int[] newArray = new int[array.length];

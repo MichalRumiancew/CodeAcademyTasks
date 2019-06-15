@@ -7,7 +7,7 @@ public class Zad12 {
 
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("podaj a");
+        System.out.println("podaj arrays");
         int a = scanner.nextInt();
         System.out.println("podaj b");
         int b = scanner.nextInt();
@@ -16,7 +16,7 @@ public class Zad12 {
         a = b;
         b = c;
 
-        System.out.println("a na b " + a + " b na a " + b);
+        System.out.println("arrays na b " + a + " b na arrays " + b);
 
     }
 }

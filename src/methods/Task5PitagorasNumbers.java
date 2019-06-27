@@ -3,7 +3,7 @@ package methods;
 import java.util.Scanner;
 
 public class Task5PitagorasNumbers {
-    //a*a+b*b=c*c
+    //arrays*arrays+b*b=c*c
     static boolean pitagoras(int a, int b, int c) {
         if (a * a + b * b == c * c || a * a + c * c == b * b || b * b + c * c == a * a) {
             return true;

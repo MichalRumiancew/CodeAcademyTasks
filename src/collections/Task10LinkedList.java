@@ -14,7 +14,6 @@ public class Task10LinkedList {
         elements.add(12);
         elements.add(0);
         elements.add(2,17);
-        //pod index 2 dodaje wartość 17, czyli nadpisuje!!!
         System.out.println(elements);
     }
 }
